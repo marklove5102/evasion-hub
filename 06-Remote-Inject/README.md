@@ -4,6 +4,8 @@ Code: 0x01-PPID-Spoof-EarlyBird-Injection-System-Whitelist
 
 # Excellent-Article-and-Project
 ```
+【Dirty Vanity】https://www.deepinstinct.com/blog/dirty-vanity-a-new-approach-to-code-injection-edr-bypass
+【Dirty Vanity Chinese Version】https://mp.weixin.qq.com/s/fZTG1csMRImSsO6nilPEHg
 【深入理解 Windows 进程属性：从 PPID 欺骗到句柄继承】https://mp.weixin.qq.com/s/-0MbfIWFnpUD2P4IZRBrkQ
 https://repnz.github.io/posts/apc/user-apc/
 https://repnz.github.io/posts/apc/kernel-user-apc-api/

@@ -11,13 +11,14 @@
 
 # Excellent-Article-Project
 ```
-【x64汇编与shellcode入门教程 01】https://mp.weixin.qq.com/s/HzEWKEpYpeBNJyk4IEll2g?scene=1
-【x64汇编与shellcode入门教程 02】https://mp.weixin.qq.com/s/vEfsmgBpEOJSzvXcvnEtUA?scene=1
-【x64汇编与shellcode入门教程 03】https://mp.weixin.qq.com/s/bJnqwt0_9rQCmaYZFrcFKg?scene=1
-【x64汇编与shellcode入门教程 04】https://mp.weixin.qq.com/s/-SEK85Fflt-Gr_Km9YcD3w?scene=1
-【x64汇编与shellcode入门教程 05】https://mp.weixin.qq.com/s/xC02bij37DTr_j4arJi_ag?scene=1
-【x64汇编与shellcode入门教程 06】https://mp.weixin.qq.com/s/db2pQXBx44IF4Dst0hw9sQ?scene=1
-【x64汇编与shellcode入门教程 07】https://mp.weixin.qq.com/s/AmjTv9wzFqzV1GKZYUecNQ
+【x64汇编与shellcode教程 01 中文版】https://mp.weixin.qq.com/s/HzEWKEpYpeBNJyk4IEll2g?scene=1
+【x64汇编与shellcode教程 02 中文版】https://mp.weixin.qq.com/s/vEfsmgBpEOJSzvXcvnEtUA?scene=1
+【x64汇编与shellcode教程 03 中文版】https://mp.weixin.qq.com/s/bJnqwt0_9rQCmaYZFrcFKg?scene=1
+【x64汇编与shellcode教程 04 中文版】https://mp.weixin.qq.com/s/-SEK85Fflt-Gr_Km9YcD3w?scene=1
+【x64汇编与shellcode教程 05 中文版】https://mp.weixin.qq.com/s/xC02bij37DTr_j4arJi_ag?scene=1
+【x64汇编与shellcode教程 06 中文版】https://mp.weixin.qq.com/s/db2pQXBx44IF4Dst0hw9sQ?scene=1
+【x64汇编与shellcode教程 07 中文版】https://mp.weixin.qq.com/s/AmjTv9wzFqzV1GKZYUecNQ
+【x64汇编与shellcode教程】https://g3tsyst3m.com/shellcoding/assembly/debugging/x64-Assembly-and-Shellcoding-101/
 【OpenSecurityTraining2】https://p.ost2.fyi/
 【Debuggers 3011, Advanced WinDbg】https://www.youtube.com/watch?v=K5abwBNb76k&list=PLUFkSN0XLZ-ka9dfeHWmhqDV-qIns-9uR
 【Architecture 2821, Windows Kernel Internels 2】https://www.youtube.com/watch?v=_5c8ErwyqiU&list=PLUFkSN0XLZ-kOQnYJwx3x9wPMDjlv2iSg
